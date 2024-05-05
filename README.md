@@ -50,3 +50,7 @@ Extracting Spice netlist
 
 ![3_5](https://github.com/Rudrali-11/-VSD_DIGITAL-VLSI-SOC-DESIGN-AND-PLANNING/assets/121845097/76c898e7-b2c2-4744-b382-e62f9c4a6752)
 ![3_6](https://github.com/Rudrali-11/-VSD_DIGITAL-VLSI-SOC-DESIGN-AND-PLANNING/assets/121845097/19138abd-b693-4f86-ae7f-3f23cfc7fb58)
+
+Spice simulation
+
+![3_7](https://github.com/Rudrali-11/-VSD_DIGITAL-VLSI-SOC-DESIGN-AND-PLANNING/assets/121845097/22bc3df7-c775-4b1d-b4a6-8c255c439588)
