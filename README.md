@@ -54,3 +54,19 @@ Extracting Spice netlist
 Spice simulation
 
 ![3_7](https://github.com/Rudrali-11/-VSD_DIGITAL-VLSI-SOC-DESIGN-AND-PLANNING/assets/121845097/22bc3df7-c775-4b1d-b4a6-8c255c439588)
+
+Day 4 
+
+Convert grid info to track info
+
+![4_1](https://github.com/Rudrali-11/-VSD_DIGITAL-VLSI-SOC-DESIGN-AND-PLANNING/assets/121845097/ff6cfd3c-0612-4afe-b145-41610ed577ca)
+
+Convert magic layout to standard cell LEF
+![4_2](https://github.com/Rudrali-11/-VSD_DIGITAL-VLSI-SOC-DESIGN-AND-PLANNING/assets/121845097/cb13eed3-f7b6-4a87-9568-b26ccb5fe72f)
+
+Open the saved .mag file using the command magic -T sky130A.tch sky130_vsdinv.mag &
+![4_3](https://github.com/Rudrali-11/-VSD_DIGITAL-VLSI-SOC-DESIGN-AND-PLANNING/assets/121845097/b8cb777c-bb7e-40f3-9a1f-51d784fc5c88)
+
+Using the lef write command
+![4_4](https://github.com/Rudrali-11/-VSD_DIGITAL-VLSI-SOC-DESIGN-AND-PLANNING/assets/121845097/705a8f90-5c91-49fa-9105-7c6e421fcfbf)
+
